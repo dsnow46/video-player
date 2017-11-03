@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  width: 100%;
+  background-color: darkblue;
+  color: white;
+  padding: 15px;
+}
+
+.links {
+  align-content: stretch;
+  display: inline-block;
+  margin-right: 60px;
+}
